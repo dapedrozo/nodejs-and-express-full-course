@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "name": "nodejs-quick-course",
+  "version": "1.0.0",
+  "description": "primer upload",
+  "main": "index-modules.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index-modules.js"
+  },
+  "keywords": [
+    "node",
+    "pim",
+    "pam"
+  ],
+  "author": "david",
+  "license": "ISC"
+}
